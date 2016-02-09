@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "breviariumadusu00churgoog_0548.png"; bbox 0 0 1921 2438; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 435 1580 1221 1758">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 435 1580 1228 1758">
+     <span class='ocr_line' id='line_1_1' title="bbox 435 1690 1121 1758; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 1119 1738 1149 1745; x_wconf 82' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 883 1691 1096 1752; x_wconf 49' lang='grc' dir='ltr'>εἴ</span> <span class='ocrx_word' id='word_1_3' title='bbox 545 1691 998 1758; x_wconf 6' lang='grc' dir='ltr'>ξῑῧωέξ</span> <span class='ocrx_word' id='word_1_4' title='bbox 435 1690 588 1751; x_wconf 63' lang='lat'>{3</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 443 1650 1221 1700; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 1158 1654 1221 1700; x_wconf 42' lang='grc' dir='ltr'>,πε</span> <span class='ocrx_word' id='word_1_6' title='bbox 513 1650 1082 1697; x_wconf 44' lang='lat' dir='ltr'>{amu-3333&lt;</span> <span class='ocrx_word' id='word_1_7' title='bbox 443 1688 446 1689; x_wconf 15' lang='grc' dir='ltr'>ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 509 1580 1093 1651; textangle 270"><span class='ocrx_word' id='word_1_8' title='bbox 808 1583 1093 1651; x_wconf 40' lang='lat' dir='ltr'>&amp;naa-83³</span> <span class='ocrx_word' id='word_1_9' title='bbox 722 1614 794 1644; x_wconf 58' lang='lat' dir='ltr'>dam</span> <span class='ocrx_word' id='word_1_10' title='bbox 509 1580 710 1645; x_wconf 41' lang='lat' dir='ltr'>„vossun-⁴&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 332 152 1590 2268">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 332 152 1590 2268">
+     <span class='ocr_line' id='line_1_4' title="bbox 332 152 1590 2268; textangle 270"><span class='ocrx_word' id='word_1_11' title='bbox 332 152 1590 2268; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
